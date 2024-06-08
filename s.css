@@ -1,0 +1,22 @@
+body{
+    background-color: palevioletred;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+h1{
+    background-color: rgb(235, 13, 105);
+    text-align: center;
+    justify-content: baseline;
+}
+div{
+    align-items: center;
+}
+button{
+    margin: 10px;
+    height: 90px;
+    width: 200px;
+    background-color: rgb(143, 35, 98);
+    margin-top: 190px;
+    margin-left: 80px;
+    
+}
